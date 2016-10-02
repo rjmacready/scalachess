@@ -100,6 +100,7 @@ object StartingPosition {
     )),
     Category("d4", List(
       StartingPosition("A40", "Queen's Pawn", "rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 1 1", "Queen's_Pawn_Game", "1. d4", false),
+      StartingPosition("A40", "Beefeater Defence", "rnbqk1nr/pp1pp2p/6p1/2pP1p2/2P5/2P5/P3PPPP/R1BQKBNR w KQkq - 0 6", "Beefeater_Defence", "1. d4"),
       StartingPosition("A57", "Benko Gambit", "rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq b6 1 4", "Benko_Gambit", "1. d4 Nf6 2. c4 c5 3. d5 b5"),
       StartingPosition("A61", "Benoni Defence: Modern Benoni", "rnbqkb1r/pp1p1ppp/4pn2/2pP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 4", "Modern_Benoni", "1. d4 Nf6 2. c4 c5 3. d5 e6"),
       StartingPosition("A43", "Benoni Defence: Czech Benoni", "rnbqkb1r/pp1p1ppp/5n2/2pPp3/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 4", "Benoni_Defense#Czech_Benoni:_1.d4_Nf6_2.c4_c5_3.d5_e5", "1. d4 Nf6 2. c4 c5 3. d5 e5"),
